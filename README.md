@@ -1,3 +1,3 @@
 # Jenkins_Test
 
-Test Jenkins. Testing here, lets see the first hook after rewriting the hook. hahaha
+Test Jenkins. Testing here, lets see the first hook after rewriting the hook. Back to normal
